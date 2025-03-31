@@ -2,7 +2,7 @@
 This repository features a highly accurate spam detection model trained using a Support Vector Machine (SVM). It includes a pre-trained model file and an IPython Notebook for execution.
 
 ## Model Perfomance
-* The SVM model achieves high accuracy in detecting spam emails.
+* This SVM model achieves high accuracy in detecting spam emails.
 * It is trained on a well-processed dataset to optimize performance.
 * The model effectively reduces false positives and enhances precision in spam classification.
 
