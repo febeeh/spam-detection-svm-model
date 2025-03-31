@@ -1,5 +1,10 @@
 # spam-detection-svm-model
- This repository contains a spam detection model trained using Support Vector Machine (SVM). It includes a trained model file and an IPython Notebook for execution and evaluation.
+This repository contains a spam detection model trained using Support Vector Machine (SVM). It includes a trained model file and an IPython Notebook for execution and evaluation.
+
+## Model Perfomance
+* The SVM model achieves high accuracy in detecting spam emails.
+* It is trained on a well-processed dataset to optimize performance.
+* The model effectively reduces false positives and enhances precision in spam classification.
 
 ## Model Usage: Spam Email Detection
 This model is designed to classify emails as spam or not spam using an SVM classifier.
@@ -27,5 +32,7 @@ The provided Jupyter Notebook ```(spam_detection.ipynb)``` contains step-by-step
 #### 1: Open the notebook:
 ```jupyter notebook spam_detection.ipynb```
 #### 2: Run all cell
+
+______________________________________________
 
 ## Done
