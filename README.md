@@ -5,7 +5,6 @@
 This model is designed to classify emails as spam or not spam using an SVM classifier.
 
 ### Steps to Use the Model:
-
 #### 1: Load the trained model and vectorizer
 ```python
 import joblib
@@ -24,12 +23,9 @@ print(prediction)
 ```
 
 ### Executing the Jupyter Notebook
-
 The provided Jupyter Notebook ```(spam_detection.ipynb)``` contains step-by-step instructions to train and test the model. Follow these steps to execute it:
-
 #### 1: Open the notebook:
 ```jupyter notebook spam_detection.ipynb```
-
 #### 2: Run all cell
 
 ## Done
