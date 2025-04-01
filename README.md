@@ -28,7 +28,7 @@ print(prediction)
 ```
 
 ### Executing the Jupyter Notebook
-The provided Jupyter Notebook ```(spam_detection.ipynb)``` contains step-by-step instructions to train and test the model. Follow these steps to execute it:
+The provided Jupyter Notebook ```(spam_detection.ipynb)``` contains step-by-step instructions to test the model. Follow these steps to execute it:
 #### 1: Open the notebook:
 ```jupyter notebook spam_detection.ipynb```
 #### 2: Run all cell
