@@ -1,4 +1,4 @@
-# spam-detection-svm-model
+# Spam Detection SVM Model
 This repository features a highly accurate spam detection model trained using a Support Vector Machine (SVM). It includes a pre-trained model file and an IPython Notebook for execution.
 
 ## Model Perfomance
